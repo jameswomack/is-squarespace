@@ -1,0 +1,29 @@
+{
+  "name": "is-squarespace",
+  "version": "1.0.0",
+  "description": "Is it made with Squarespace?",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jameswomack/is-squarespace.git"
+  },
+  "keywords": [
+    "squarespace",
+    "scrape"
+  ],
+  "author": "James Womack <me@jameswomack.com> (http://womack.io)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jameswomack/is-squarespace/issues"
+  },
+  "homepage": "https://github.com/jameswomack/is-squarespace#readme",
+  "dependencies": {
+    "request": "2.56.0"
+  },
+  "devDependencies": {
+    "mocha": "2.2.5"
+  }
+}
