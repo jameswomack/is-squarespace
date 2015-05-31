@@ -1,8 +1,8 @@
 {
   "name": "is-squarespace",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Is it made with Squarespace?",
-  "main": "index.js",
+  "main": "lib/is-squarespace.js",
   "scripts": {
     "test": "mocha"
   },
